@@ -17,8 +17,6 @@ def append_data():
         file_append.writerow(information)
 
 
-print(data)
-
 information = []
 
 
